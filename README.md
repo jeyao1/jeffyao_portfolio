@@ -8,8 +8,8 @@ Business Analysis Certification<br>
 Google Data Analytics Certificate<br>
 Google Business Intelligence Certificate<br>
 ChatGPT Advanced Data Analysis Certificate<br>
-Post-Bacc. Certificate in Accounting *(exp. 2024)*
-#### Technical: Python, SQL, Tableau, Excel
+Post-Bacc. Certificate in Accounting *(exp. 2024)*<br><br>
+*Technical: Python, SQL, Tableau, Excel*
 
 ### Experience
 UX Researcher | [VibeSet.AI](https://vibeset-ai.webflow.io/) - AWS database management, Scraped track data from website using python scripts, prompt engineering,<br>
