@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/jfryyao">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30" alt="LinkedIn"> </a>
+
 ### Education
 B.A., Economics<br>
 Certified Tableau Desktop Specialist<br>
@@ -5,7 +8,7 @@ Business Analysis Certification<br>
 Google Data Analytics Certificate<br>
 Google Business Intelligence Certificate<br>
 ChatGPT Advanced Data Analysis Certificate<br>
-Post-Bacc. Certificate in Accounting (exp. 2024)
+Post-Bacc. Certificate in Accounting *(exp. 2024)*
 #### Technical
 Python, SQL, Tableau, Excel
 
