@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/jfryyao">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30" alt="LinkedIn"> </a>
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="LinkedIn"> </a>
 
 ### Education
 B.A., Economics<br>
