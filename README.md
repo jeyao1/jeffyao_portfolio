@@ -11,5 +11,6 @@ experience2
 project1
 
 
-<iframe src="mpg_project.html" width="150%" height="1000"></iframe>
+<iframe src="mpg_project.html" width="100%" height="1000" allowfullscreen scrolling="yes"></iframe>
+
 
