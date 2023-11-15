@@ -1,11 +1,11 @@
-### Education
+## Education
 Economics, BA
 
-### Experience
+## Experience
 experience1
 experience2
 
-### Projects
+## Projects
 
 **[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** analysis of MPG from 1970-1981. Removed data without affecting data quality. MPG change is due to 8-cylinders vehicles leaving calculation as opposed to technological innovation. Conclusion: laksdjasl
 > **Used** : Tableau, Python (Pandas)
