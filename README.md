@@ -2,13 +2,14 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="LinkedIn"> </a>
 
 ### Education
-B.A., Economics<br>
-Certified Tableau Desktop Specialist<br>
-Business Analysis Certification<br>
-Google Data Analytics Certificate<br>
-Google Business Intelligence Certificate<br>
-ChatGPT Advanced Data Analysis Certificate<br>
-Post-Bacc. Certificate in Accounting *(exp. 2024)*<br><br>
+B.A., Economics  
+Certified Tableau Desktop Specialist  
+Business Analysis Certification  
+Google Data Analytics Certificate  
+Google Business Intelligence Certificate  
+ChatGPT Advanced Data Analysis Certificate  
+Post-Bacc. Certificate in Accounting *(exp. 2024)*  
+<br>
 *Technical: Python, SQL, Tableau, Excel*
 
 ### Experience
