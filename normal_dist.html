@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>D3 Bar Chart</title>
+    <!-- Include D3.js -->
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+</head>
+<body>
+    <script type="text/javascript">
+    
+var myData = [100, 130, 180, 280, 360, 450, 490, 550, 440, 350, 180, 130, 90];
+var height = 60;
+var width = 100;
+var animateDuration = 2000;
+var animateDelay = 150;
+
+var yScale = d3.scale.linear()
+    .domain([0, d3.max(myData)])
+    .range([0, height - 10]);
+
+var xScale = d3.scale.ordinal()
+    .domain(d3.range(0, myData.length))
+    .rangeBands([0, width]);
+
+var svgContainer = d3.select('body')
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height);
+
+var bars = svgContainer.selectAll('rect')
+    .data(myData)
+    .enter()
+    .append('rect')
+    .style('fill', "#ffffff")
+    .attr('width', xScale.rangeBand())
+    .attr('height', 0) // set in transition
+    .style('stroke', '#4f4f4f')
+    .style('stroke-width', '0.80px')
+    .attr('x', function(d, i) {
+        return xScale(i);
+    })
+    .attr('y', height);
+
+var transitionChart = bars.transition()
+    .attr('height', function(d) {
+        return yScale(d);
+    })
+    .attr('y', function(d) {
+        return height - yScale(d);
+    })
+    .duration(animateDuration)
+    .delay(function(d, i) { // gradual delay
+        return i * animateDelay;
+    })
+    .ease('elastic');
+
+    </script>
+</body>
+</html>
