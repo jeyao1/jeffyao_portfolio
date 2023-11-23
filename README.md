@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/jfryyao">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45" alt="LinkedIn"> </a>
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40" alt="LinkedIn"> </a>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <iframe src="D3 Bar Chart.html" width="130" height="90" style="border: 0px solid white;"></iframe> </div>
