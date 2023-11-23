@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/jfryyao">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="LinkedIn"> </a>
 
-<div style="align-items: center">
-    <iframe src="normal_dist.html" width="150" height="150" style="border: 0px solid white;"></iframe>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <iframe src="normal_dist.html" width="150" height="75" style="border: 0px solid white;"></iframe>
 </div>
 
 
