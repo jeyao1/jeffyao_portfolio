@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>D3 Bar Chart</title>
-    <!-- Include D3.js -->
+    <title>normal dist</title>
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 </head>
 <body>
@@ -17,7 +16,7 @@ var animateDelay = 150;
 
 var yScale = d3.scale.linear()
     .domain([0, d3.max(myData)])
-    .range([0, height - 10]);
+    .range([0, height - 12]);
 
 var xScale = d3.scale.ordinal()
     .domain(d3.range(0, myData.length))
@@ -35,7 +34,7 @@ var bars = svgContainer.selectAll('rect')
     .style('fill', "#ffffff")
     .attr('width', xScale.rangeBand())
     .attr('height', 0) // set in transition
-    .style('stroke', '#4f4f4f')
+    .style('stroke', '#919090')
     .style('stroke-width', '0.80px')
     .attr('x', function(d, i) {
         return xScale(i);
@@ -50,7 +49,7 @@ var transitionChart = bars.transition()
         return height - yScale(d);
     })
     .duration(animateDuration)
-    .delay(function(d, i) { // gradual delay
+    .delay(function(d, i) { 
         return i * animateDelay;
     })
     .ease('elastic');
