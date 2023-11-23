@@ -15,9 +15,12 @@ Post-Bacc. Certificate in Accounting *(exp. 2024)*
 <br>
 *Technical: Python, SQL, Tableau, Excel*
 
+<br>
+
 ### Experience
 UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai) - AWS database management, Scraped track data from website using python scripts, prompt engineering,<br>
 
+<br>
 
 ### Projects
 
