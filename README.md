@@ -5,7 +5,6 @@
     <iframe src="normal_dist.html" width="130" height="90" style="border: 0px solid white;"></iframe>
 </div>
 
-
 ### Education
 B.A., Economics  
 Certified Tableau Desktop Specialist  
