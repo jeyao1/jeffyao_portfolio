@@ -18,7 +18,7 @@ Post-Bacc. Certificate in Accounting *(exp. 2024)*
 <br>
 
 ### Experience
-UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai) - AWS database management, Scraped track data from website using python scripts, prompt engineering,<br>
+UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai) - AWS database management (RDS), Scraped track data from website using python scripts, prompt engineering,<br>
 
 <br>
 
