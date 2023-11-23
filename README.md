@@ -29,7 +29,7 @@ UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai) - AWS database
 > <span style="color:#FF6865">**Tools Used**: Python (Pandas, Pyplot, NumPy), Tableau </span> 
 
 >
-<iframe src="mpg_project.html" width="100%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
+<iframe src="mpg_project.html" width="105%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
 
 
 
