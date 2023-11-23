@@ -26,7 +26,7 @@ UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai) - AWS database
 
 **[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** analysis of MPG from 1970-1981. Removed data without affecting data quality. MPG change is due to 8-cylinders vehicles leaving calculation as opposed to technological innovation. Conclusion: laksdjasl
 
-> <span style="color:red">**Tools Used**: Python (Pandas, Pyplot, NumPy), Tableau </span> 
+> <span style="color:#FF9A98">**Tools Used**: Python (Pandas, Pyplot, NumPy), Tableau </span> 
 
 >
 <iframe src="mpg_project.html" width="100%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
