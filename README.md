@@ -15,7 +15,7 @@ Post-Bacc. Certificate in Accounting *(exp. 2024)*
 <br>
 
 ### Technical Tools/Experience
-> <span style="color:#FF6865"> **Tools:** SQL, Python (Pandas, Statsmodel), Tableau, Excel (Data Analysis Toolpak) </span>  <br>
+> **Tools:** SQL, Python (Pandas, Statsmodel), Tableau, Excel (Data Analysis Toolpak) </span>  <br>
 
 
 UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)<br>
