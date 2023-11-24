@@ -24,8 +24,8 @@ UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)<br>
 * Engineered prompts (GPT-4) that extract information from databases to generate selists.<br>
 
 Finance Specialist | Behavioral Health Works<br>
-* Integrated third-party digital worker into our system to automate key processes. <br>
-* Worked with IT stakeholders to align our system configurations and parameters with their requirements.<br>
+* Integrated third-party digital worker into our ABA system to automate key processes. <br>
+* Worked with external IT stakeholders to align our software configurations and parameters with their requirements.<br>
 
 <br>
 
