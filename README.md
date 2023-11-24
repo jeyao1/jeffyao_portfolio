@@ -31,7 +31,7 @@ Finance Specialist | Behavioral Health Works<br>
 
 ### Projects
 
-**[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** Analysis of fuel economy of American Cars from 1970-1981. <br> **Conclusion:** The increase in MPG is attributed to the reduced usage of 8-cylinder vehicles.
+**[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** Analysis of fuel economy of American Cars from 1970-1981. <br> **Conclusion:** Increase in MPG is attributed to reduced usage of 8-cylinder vehicles.
 
 > <span style="color:#FF6865">**Tools Used**: Python (Pandas, Pyplot, Numpy), Tableau </span> 
 
