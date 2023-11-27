@@ -11,7 +11,7 @@ Business Analysis Certification
 Google Data Analytics Certificate  
 Google Business Intelligence Certificate  
 ChatGPT Advanced Data Analysis Certificate  
-Post-Bacc. Certificate in Accounting *(exp. 2024)*  
+Post-Bacc. Certificate in Accounting *(expected 2024)*  
 <br>
 
 ### Technical Tools/Experience
