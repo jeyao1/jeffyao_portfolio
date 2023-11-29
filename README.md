@@ -6,7 +6,7 @@
 
 ### Education
 B.A., Economics  
-Certified Tableau Desktop Specialist  
+Certified Tableau Desktop Specialist
 Business Analysis Certification  
 Google Data Analytics Certificate  
 Google Business Intelligence Certificate  
@@ -31,7 +31,7 @@ Finance Specialist | Behavioral Health Works
 
 ### Projects
 
-**[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** Analysis of fuel economy of American Cars from 1970-1981. <br> **Conclusion:** Increase in MPG is attributed to reduced usage of 8-cylinder vehicles.
+**[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** (11/2023) Analysis of fuel economy of American Cars from 1970-1981. <br> **Conclusion:** Increase in MPG is attributed to reduced usage of 8-cylinder vehicles.
 
 > <span style="color:#FF6865">**Tools Used**: Python _(Pandas, Pyplot, Numpy)_, Tableau </span> 
 
@@ -39,7 +39,7 @@ Finance Specialist | Behavioral Health Works
 >
 <iframe src="mpg_project.html" width="105%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
 
-**[SQL_telco:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)** Data cleaning and preperation (using SQL)
+**[SQL_telco:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)** (11/2023) Data cleaning and preperation (using SQL)
 
 > <span style="color:#FF6865">**Tools Used**: SQL </span> 
 
