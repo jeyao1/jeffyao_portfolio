@@ -17,5 +17,8 @@ MODIFY Monthly_Charge FLOAT,
 MODIFY Total_Charges FLOAT,
 MODIFY Total_Refunds FLOAT,
 MODIFY Total_Extra_Data_Charges FLOAT,
-MODIFY Total_Revenue FLOAT;
+MODIFY Total_Revenue FLOAT
+MODIFY Referred_a_Friend TEXT,
+MODIFY Number_of_Referrals INT,
+MODIFY Tenure_in_Months INT;
 
