@@ -1,5 +1,5 @@
-SELECT COUNT(*) FROM status;
-SELECT COUNT(DISTINCT Customer_id) FROM status;
+SELECT COUNT(*) FROM status; -- 7043
+SELECT COUNT(DISTINCT Customer_id) FROM status; -- No duplicates
 SELECT * FROM status;
 
 
