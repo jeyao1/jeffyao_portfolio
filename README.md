@@ -18,14 +18,14 @@ Post-Bacc. Certificate in Accounting *(expected 2024)*
 > <span style="color:#FF6865">**Tools:** SQL, Python _(Pandas, Statsmodel)_, Tableau, Excel _(Data Analysis Toolpak)_ <br>
 
 
-UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)<br>
+UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)
 * CRUD operations in AWS database (RDS).
-* Data scrapping tasks by way of (Python) scripts.<br>
-* Engineered prompts (GPT-4) that extract information from databases to generate selists.<br>
+* Data scrapping tasks by way of (Python) scripts.
+* Engineered prompts (GPT-4) that extract information from databases to generate selists.
 
-Finance Specialist | Behavioral Health Works<br>
-* Integrated third-party digital worker into our ABA system to automate key processes. <br>
-* Worked with external IT stakeholders to align our software configurations and parameters with their requirements.<br>
+Finance Specialist | Behavioral Health Works
+* Integrated third-party digital worker into our ABA system to automate key processes.
+* Worked with external IT stakeholders to align our software configurations and parameters with their requirements.
 
 <br>
 
