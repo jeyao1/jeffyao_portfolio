@@ -49,10 +49,8 @@ Finance Specialist | Behavioral Health Works
 
 <br>
 <br>
-<br>
-
 
 <a href="https://chat.openai.com/g/g-tfCqN0byc-shel" style="display: flex; justify-content: center; align-items: center; height: 100px;">
-    <img src="misc/shel.png" width="45" height="45" style="border-radius: 50%;"> 
+    <img src="misc/shel.png" width="65" height="65" style="border-radius: 50%;"> 
 </a>
 
