@@ -2,7 +2,7 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45" alt="LinkedIn"> </a>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <iframe src="misc/D3 Bar Chart.html" width="125" height="75" style="border: 0px solid white;"></iframe> </div>
+    <iframe src="misc/D3 Bar Chart.html" width="125" height="77" style="border: 0px solid white;"></iframe> </div>
 
 ### Education
 B.A., Economics  
