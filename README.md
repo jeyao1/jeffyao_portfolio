@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/jfryyao">
+0<a href="https://www.linkedin.com/in/jfryyao">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45" alt="LinkedIn"> </a>
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -6,7 +6,7 @@
 
 ### Education
 B.A., Economics  
-Certified Tableau Desktop Specialist
+Certified Tableau Desktop Specialist  
 Business Analysis Certification  
 Google Data Analytics Certificate  
 Google Business Intelligence Certificate  
