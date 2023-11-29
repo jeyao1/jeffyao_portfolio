@@ -15,7 +15,7 @@ Post-Bacc. Certificate in Accounting *(expected 2024)*
 <br>
 
 ### Technical Tools/Experience
-> <span style="color:#FF6865">**Tools:** SQL, Python (Pandas, Statsmodel), Tableau, Excel (Data Analysis Toolpak)<br>
+> <span style="color:#FF6865">**Tools:** SQL, Python _(Pandas, Statsmodel)_, Tableau, Excel _(Data Analysis Toolpak)_ <br>
 
 
 UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)<br>
@@ -33,7 +33,7 @@ Finance Specialist | Behavioral Health Works<br>
 
 **[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** Analysis of fuel economy of American Cars from 1970-1981. <br> **Conclusion:** Increase in MPG is attributed to reduced usage of 8-cylinder vehicles.
 
-> <span style="color:#FF6865">**Tools Used**: Python (Pandas, Pyplot, Numpy), Tableau </span> 
+> <span style="color:#FF6865">**Tools Used**: Python _(Pandas, Pyplot, Numpy)_, Tableau </span> 
 
 >
 <iframe src="mpg_project.html" width="105%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
