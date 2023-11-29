@@ -36,7 +36,7 @@ Finance Specialist | Behavioral Health Works
 
 <iframe src="mpg_project.html" width="107%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.90); transform-origin: top left;"></iframe>
 
-**[SQL_telco:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)** (11/2023) Data cleaning and preparation (using SQL)
+**[SQL_telco:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)** (11/2023) Data cleaning and preparation (using SQL).
 
 <span style="color:#FF6865">**Tools Used**: SQL </span> 
 
