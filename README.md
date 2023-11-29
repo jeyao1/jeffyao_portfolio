@@ -50,7 +50,18 @@ Finance Specialist | Behavioral Health Works
 
 
   
-<a href="https://chat.openai.com/g/g-tfCqN0byc-shel" style="display: flex; justify-content: center; align-items: center; height: 100px;">
-    <img src="misc/shel.png" width="65" height="65" style="border-radius: 50%;"> 
-</a>
+<style>
+    .clickable-image {
+        width: 65px;
+        height: 65px;
+        border-radius: 50%;
+        cursor: pointer;
+        display: block;
+        margin: auto; /* Centers the image */
+    }
+</style>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+    <img src="misc/shel.png" alt="Clickable Image" class="clickable-image" onclick="window.location.href='https://chat.openai.com/g/g-tfCqN0byc-shel';">
+</div>
 
