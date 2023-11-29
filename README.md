@@ -26,7 +26,6 @@ UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)
 Finance Specialist | Behavioral Health Works
 * Integrated third-party digital worker into our ABA system to automate key processes.
 * Worked with external IT stakeholders to align our software configurations and parameters with their requirements.
-
 <br>
 
 ### Projects
