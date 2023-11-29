@@ -12,7 +12,7 @@ SET dependents = CASE dependents
 SET SQL_SAFE_UPDATES = 1;
 
 ALTER TABLE demographic
-MODIFY COLUMN number_of_dependents BOOLEAN;
+MODIFY COLUMN number_of_dependents INT;
 
 
 
