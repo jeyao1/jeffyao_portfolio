@@ -46,3 +46,13 @@ Finance Specialist | Behavioral Health Works
 
 >
 <iframe src="SQL_telco/SQL_telco.html" width="105%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
+
+<br>
+<br>
+<br>
+
+
+<a href="https://chat.openai.com/g/g-tfCqN0byc-shel" style="display: flex; justify-content: center; align-items: center; height: 100px;">
+    <img src="misc/shel.png" width="45" height="45" style="border-radius: 50%;"> 
+</a>
+
