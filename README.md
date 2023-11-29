@@ -45,6 +45,6 @@ Finance Specialist | Behavioral Health Works
 > <span style="color:#FF6865">**Tools Used**: SQL
 
 >
-<iframe src="SQL_telco.html" width="105%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
+<iframe src="https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.html" width="105%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.85); transform-origin: top left;"></iframe>
 
 
