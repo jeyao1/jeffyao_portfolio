@@ -42,9 +42,9 @@ Finance Specialist | Behavioral Health Works
 
 <iframe src="SQL_telco/SQL_telco.html" width="107%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.90); transform-origin: top left;"></iframe>
 
+<br>
+<br>
 
-
-  
 <style>
     .clickable-image {
         width: 65px;
