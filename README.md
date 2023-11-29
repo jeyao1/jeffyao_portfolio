@@ -1,4 +1,4 @@
-0<a href="https://www.linkedin.com/in/jfryyao">
+<a href="https://www.linkedin.com/in/jfryyao">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45" alt="LinkedIn"> </a>
 
 <div style="display: flex; justify-content: center; align-items: center;">
