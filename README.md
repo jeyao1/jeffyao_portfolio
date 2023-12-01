@@ -16,8 +16,8 @@ ChatGPT Advanced Data Analysis Certificate
 Post-Bacc. Certificate in Accounting *(expected 2024)*  
 <br>
 
-### Technical Experience/Tools
-<img src="https://github.com/jeyao1/jeffyao_portfolio/blob/main/misc/tech.png">
+
+
 
 > <span style="color:#FF6865">**Tools:** SQL, Python _(Pandas, Statsmodel)_, Tableau, Excel _(Data Analysis Toolpak)_ <br>
 
@@ -32,8 +32,7 @@ Finance Specialist | Behavioral Health Works
 * Worked with external IT stakeholders to align our software configurations and parameters with their requirements.
 <br>
 
-### Projects
-<img src="https://github.com/jeyao1/jeffyao_portfolio/blob/main/misc/projects.png">
+
 
 **[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** (11/2023) Analysis of fuel economy of American Cars from 1970-1981. <br> **>> Conclusion:** Increase in MPG is attributed to reduced usage of 8-cylinder vehicles.
 
