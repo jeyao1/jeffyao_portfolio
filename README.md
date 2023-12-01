@@ -2,7 +2,7 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45" alt="LinkedIn">
 </a>
 
-### Education
+## Education
 
 B.A., Economics  
 Certified Tableau Desktop Specialist  
@@ -29,7 +29,7 @@ Finance Specialist | Behavioral Health Works
 * Worked with external IT stakeholders to align our software configurations and parameters with their requirements.
 <br>
 
-### Projects:
+## Projects:
 
 **[mpg_project:](https://github.com/jeyao1/jeffyao_portfolio/blob/main/mpg_project.ipynb)** (11/2023) Analysis of fuel economy of American Cars from 1970-1981. <br> 
 * **Conclusion:** Increase in MPG is attributed to reduced usage of 8-cylinder vehicles.
