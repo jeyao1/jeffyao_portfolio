@@ -3,7 +3,6 @@
 </a>
 
 <br>
-<br>
 
 <img src="https://github.com/jeyao1/jeffyao_portfolio/blob/main/misc/education2.png?raw=true">
 
