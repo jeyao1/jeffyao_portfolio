@@ -1,9 +1,6 @@
 <a href="https://www.linkedin.com/in/jfryyao">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="LinkedIn"> </a>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <iframe src="misc/D3 Bar Chart.html" width="130" height="80" style="border: 0px solid white;"></iframe> </div>
-
 ### Education
 B.A., Economics  
 Certified Tableau Desktop Specialist  
