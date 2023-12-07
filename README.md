@@ -13,7 +13,6 @@ ChatGPT Advanced Data Analysis Certificate
 Post-Bacc. Certificate in Accounting *(expected 2024)*  
 <br>
 
-
 ### Technical Experience/Tools
 
 > <span style="color:#FF6865">**Tools:** SQL, Python _(Pandas, Statsmodel)_, Tableau, Excel _(Data Analysis Toolpak)_ <br>
@@ -29,6 +28,7 @@ Finance Specialist | Behavioral Health Works
 * Worked with external IT stakeholders to align our software configurations and parameters with their requirements.
 <br>
 <br>
+
 
 # Projects:
 
