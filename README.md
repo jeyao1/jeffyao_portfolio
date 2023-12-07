@@ -42,12 +42,6 @@ Finance Specialist | Behavioral Health Works
 
 > <span style="color:#FF6865">**Tools Used**: <img src="misc/logo-mysql-170x115.png" width="85" height="57"> </span> 
 
-<div style="text-align: center;">
-    <span style="color:#FF6865; display: inline-block;"> Tools Used: </span>
-    <img src="misc/logo-mysql-170x115.png" width="85" height="57">
-</div>
-
-
 <iframe src="SQL_telco/SQL_telco.html" width="107%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.90); transform-origin: top left;"></iframe>
 
 <br>
