@@ -39,7 +39,7 @@ Finance Specialist | Behavioral Health Works
 <iframe src="mpg_project.html" width="107%" height="500" allowfullscreen scrolling="yes" style="border: 1px solid black; transform: scale(0.90); transform-origin: top left;"></iframe>
 <br>
 
-**[SQL_telco ](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)**(11/2023): Data cleaning and preparation (using SQL).
+### **[SQL_telco ](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)**(11/2023)
 
 > **Summary:** This project specifically demonstrates SQL proficiency using a dataset from IBM’s BI-tool, Cognos. I created an ERD in MySQL to visually represent the database tables and their relationships by way of Primary and Foreign keys. Additionally, I also wrote three exploratory queries involving JOINS. Below each table, I’ve detailed the data cleaning and validation processes.
  
