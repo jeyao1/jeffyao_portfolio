@@ -18,7 +18,7 @@ Post-Bacc. Certificate in Accounting *(expected 2024)*
 > <span style="color:#FF6865">**Tools:** SQL, Python _(Pandas, Statsmodel)_, Tableau, Excel _(Data Analysis Toolpak)_ <br>
 
 
-UX Researcher *(Contract)* | [VibeSet.AI](https://www.vibeset.ai)
+UX Researcher | [VibeSet.AI](https://www.vibeset.ai)
 * CRUD operations in AWS database (RDS).
 * Data scrapping tasks by way of (Python) scripts.
 * Engineered prompts (GPT-4) that extract information from databases to generate selists.
