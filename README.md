@@ -41,7 +41,7 @@ Finance Specialist | Behavioral Health Works
 
 ### **[SQL_telco ](https://github.com/jeyao1/jeffyao_portfolio/blob/main/SQL_telco/SQL_telco.ipynb)**(11/2023)
 
-> **Summary:** This project specifically demonstrates SQL proficiency using a dataset from IBM’s BI-tool, Cognos. I created an ERD in MySQL to visually represent the database tables and their relationships by way of Primary and Foreign keys. Additionally, I also wrote three exploratory queries involving JOINS. Below each table, I’ve detailed the data cleaning and validation processes.
+> **Summary:** This project specifically demonstrates SQL proficiency using a dataset from IBM’s BI-tool, Cognos. I created an ERD in MySQL to visually represent the database tables and their relationships by way of Primary and Foreign keys. Additionally, I wrote three exploratory queries involving JOINS. Below each table, I’ve detailed the data cleaning and validation processes.
  
 <span style="color:#FF6865">**Tools Used**: <img src="misc/logo-mysql-170x115.png" width="85" height="57" style="vertical-align: middle; margin-left: 10px; margin-right: 10px;"> </span> 
 
