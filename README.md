@@ -2,32 +2,6 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="LinkedIn">
 </a>
 
-# Education
-
-B.A., Economics  
-Certified Tableau Desktop Specialist  
-Business Analysis Certification  
-Google Data Analytics Certificate  
-Google Business Intelligence Certificate  
-ChatGPT Advanced Data Analysis Certificate  
-Post-Bacc. Certificate in Accounting *(expected 2024)*  
-
-
-### Technical Experience/Tools
-
-> <span style="color:#FF6865">**Tools:** SQL, Python _(Pandas, Statsmodel)_, Tableau, Excel _(Data Analysis Toolpak)_ <br>
-
-
-UX Researcher | [VibeSet.AI](https://www.vibeset.ai)
-* CRUD operations in AWS database (RDS).
-* Data scrapping tasks by way of (Python) scripts.
-* Engineered prompts (GPT-4) that extract information from databases to generate selists.
-
-Finance Specialist | Behavioral Health Works
-* Integrated third-party digital worker into our ABA system to automate key processes.
-* Worked with external IT stakeholders to align our software configurations and parameters with their requirements.
-<br>
-<br>
 
 # Projects:
 
