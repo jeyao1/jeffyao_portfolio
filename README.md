@@ -11,7 +11,7 @@
 
 <span style="color:#FF6865">**Tools Used**: <img src="misc/excel_logo2.png" width="128.125" height="68.75" style="vertical-align: middle; margin-left: 10px; margin-right: 10px;"> <img src="misc/tableau_logo.png" width="100" height="54" style="vertical-align: middle; margin-left: 10px; margin-right: 10px;"> </span> 
 
-<img src="misc/gpt.png" style="padding: 0 25px;"> <a href="https://github.com/jeyao1/jeffyao_portfolio/raw/main/misc/Excel_TelcoChurn.xlsx">
+<img src="misc/gpt.png" style="padding: 0 35px;"> <a href="https://github.com/jeyao1/jeffyao_portfolio/raw/main/misc/Excel_TelcoChurn.xlsx">
     <img src="misc/spreadsheet2.png">
 </a>
 
