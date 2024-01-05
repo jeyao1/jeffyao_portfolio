@@ -6,7 +6,7 @@
 # Projects:
 
 ### **[Excel_TelcoChurn ](https://github.com/jeyao1/jeffyao_portfolio/raw/main/misc/Excel_TelcoChurn.xlsx)** (01/2024)
-> **Summary:** In my ‘SQL_Telco’ project, I cleaned a dataset and exported it to a CSV file for analysis in Excel. I uploaded this dataset to ChatGPT with the specific aim of generating a diverse set of data analysis questions. As illustrated below, these questions cover a wide range of topics, including customer demographics, service utilization patterns, and churn trends. It is important to note that ChatGPT’s role was exclusively in producing questions. All data analysis and interpretation in this project are conducted by me.
+> **Summary:** In my ‘SQL_Telco’ project, I cleaned a dataset and exported it to a CSV file for analysis in Excel. I uploaded this dataset to ChatGPT with the specific aim of generating a diverse set of data analysis questions. As illustrated below, these questions cover a wide range of topics, including customer demographics, service utilization patterns, and churn trends. It is important to note that ChatGPT’s role was exclusively in producing questions. All calculations, tests, dashboards, and interpretations in this project are done by me.
 
 
 <span style="color:#FF6865">**Tools Used**: <img src="misc/excel_logo2.png" width="128.125" height="68.75" style="vertical-align: middle; margin-left: 10px; margin-right: 10px;"> <img src="misc/tableau_logo.png" width="100" height="54" style="vertical-align: middle; margin-left: 10px; margin-right: 10px;"> </span> 
